@@ -1,2 +1,0 @@
-# PythonProject
-FIle Management System
